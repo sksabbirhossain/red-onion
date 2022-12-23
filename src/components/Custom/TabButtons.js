@@ -8,7 +8,7 @@ const CustomTabs = styled(Tabs)(({ theme }) => ({
   padding: "5px",
   "& .MuiTab-root": {
     textTransform: "capitalize",
-    color: "#000000",
+    color: "#000000 !importent",
     fontWeight: 600,
     "&:hover": {
       //   color: theme.palette.primary.main,
@@ -16,7 +16,7 @@ const CustomTabs = styled(Tabs)(({ theme }) => ({
   },
   "& .Mui-selected": {
     background: theme.palette.primary.main,
-    color: "#ffff",
+    color: "#ffffff",
     borderRadius: "15px",
   },
   "& .MuiTabs-indicator": {
@@ -24,9 +24,7 @@ const CustomTabs = styled(Tabs)(({ theme }) => ({
   },
 }));
 
-const TabButtons = () => {
-  const [value, setValue] = React.useState(0);
-
+const TabButtons = ({ value, setValue }) => {
   const handleChange = (event, newValue) => {
     setValue(newValue);
   };

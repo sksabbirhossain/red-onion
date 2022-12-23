@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Begel and cream cheese",
+    "category": "breakfast",
+    "defaultImage": "https://i.ibb.co/myDPk42/breakfast1.png",
+    "price": "99",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat voluptatibus aliquid minus voluptates porro vero eveniet natus impedit, iste tempora nulla similique magnam repudiandae sequi non nostrum aut neque esse.",
+    "images": []
+  },
+  {
+    "title": "Breakfast sandwich",
+    "category": "breakfast",
+    "defaultImage": "https://i.ibb.co/TPtDVqF/breakfast2.png",
+    "price": "99",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat voluptatibus aliquid minus voluptates porro vero eveniet natus impedit, iste tempora nulla similique magnam repudiandae sequi non nostrum aut neque esse.",
+    "images": []
+  },
+  {
+    "title": "Baked Chiken",
+    "category": "breakfast",
+    "defaultImage": "https://i.ibb.co/Jq1kN3g/breakfast3.png",
+    "price": "99",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat voluptatibus aliquid minus voluptates porro vero eveniet natus impedit, iste tempora nulla similique magnam repudiandae sequi non nostrum aut neque esse.",
+    "images": []
+  },
+  {
+    "title": "Eggs Benedict",
+    "category": "breakfast",
+    "defaultImage": "https://i.ibb.co/myDPk42/breakfast1.png",
+    "price": "99",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat voluptatibus aliquid minus voluptates porro vero eveniet natus impedit, iste tempora nulla similique magnam repudiandae sequi non nostrum aut neque esse.",
+    "images": []
+  },
+  {
+    "title": "Toast Croissant Fried egg",
+    "category": "breakfast",
+    "defaultImage": "https://i.ibb.co/rK9VBz0/breakfast6.png",
+    "price": "99",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat voluptatibus aliquid minus voluptates porro vero eveniet natus impedit, iste tempora nulla similique magnam repudiandae sequi non nostrum aut neque esse.",
+    "images": []
+  },
+  {
+    "title": "Full Brakfast Fried Egg Toast Brunch",
+    "category": "breakfast",
+    "defaultImage": "https://i.ibb.co/x16vHhm/breakfast5.png",
+    "price": "99",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat voluptatibus aliquid minus voluptates porro vero eveniet natus impedit, iste tempora nulla similique magnam repudiandae sequi non nostrum aut neque esse.",
+    "images": []
+  },
+  {
+    "title": "Healthy Meal Plan",
+    "category": "lunch",
+    "defaultImage": "https://i.ibb.co/YWTkg1Z/lunch6.png",
+    "price": "23",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat voluptatibus aliquid minus voluptates porro vero eveniet natus impedit, iste tempora nulla similique magnam repudiandae sequi non nostrum aut neque esse.",
+    "images": []
+  },
+  {
+    "title": "Fried Chicken Bento",
+    "category": "lunch",
+    "defaultImage": "https://i.ibb.co/88jMDcG/lunch4.png",
+    "price": "9",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat voluptatibus aliquid minus voluptates porro vero eveniet natus impedit, iste tempora nulla similique magnam repudiandae sequi non nostrum aut neque esse.",
+    "images": []
+  },
+  {
+    "title": "Tarragon-Rubbed-Salmon",
+    "category": "lunch",
+    "defaultImage": "https://i.ibb.co/r0NgmbC/lunch3.png",
+    "price": "9",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat voluptatibus aliquid minus voluptates porro vero eveniet natus impedit, iste tempora nulla similique magnam repudiandae sequi non nostrum aut neque esse.",
+    "images": []
+  },
+  {
+    "title": "Indian Lunch",
+    "category": "lunch",
+    "defaultImage": "https://i.ibb.co/88jMDcG/lunch4.png",
+    "price": "9",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat voluptatibus aliquid minus voluptates porro vero eveniet natus impedit, iste tempora nulla similique magnam repudiandae sequi non nostrum aut neque esse.",
+    "images": []
+  },
+  {
+    "title": "Beef Steak",
+    "category": "lunch",
+    "defaultImage": "https://i.ibb.co/mDYRzmx/lunch2.png",
+    "price": "9",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat voluptatibus aliquid minus voluptates porro vero eveniet natus impedit, iste tempora nulla similique magnam repudiandae sequi non nostrum aut neque esse.",
+    "images": []
+  },
+  {
+    "title": "Honey Soy Glazed Salmon With  Peppers",
+    "category": "lunch",
+    "defaultImage": "https://i.ibb.co/mDYRzmx/lunch2.png",
+    "price": "9",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat voluptatibus aliquid minus voluptates porro vero eveniet natus impedit, iste tempora nulla similique magnam repudiandae sequi non nostrum aut neque esse.",
+    "images": []
+  },
+  {
+    "title": "Salmon with grapefruit and lenti salad",
+    "category": "dinner",
+    "defaultImage": "https://i.ibb.co/SwQ9CbL/dinner2.png",
+    "price": "9",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat voluptatibus aliquid minus voluptates porro vero eveniet natus impedit, iste tempora nulla similique magnam repudiandae sequi non nostrum aut neque esse.",
+    "images": []
+  },
+  {
+    "title": "Lemon salmon piccata",
+    "category": "dinner",
+    "defaultImage": "https://i.ibb.co/zHW3Sdw/dinner1.png",
+    "price": "19",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat voluptatibus aliquid minus voluptates porro vero eveniet natus impedit, iste tempora nulla similique magnam repudiandae sequi non nostrum aut neque esse.",
+    "images": []
+  },
+  {
+    "title": "Pork temderloin with quinoa pilaf",
+    "category": "dinner",
+    "defaultImage": "https://i.ibb.co/QKcVJWC/dinner3.png",
+    "price": "9",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat voluptatibus aliquid minus voluptates porro vero eveniet natus impedit, iste tempora nulla similique magnam repudiandae sequi non nostrum aut neque esse.",
+    "images": []
+  },
+  {
+    "title": "Franch fries with cheese",
+    "category": "dinner",
+    "defaultImage": "https://i.ibb.co/TtSYXTb/dinner4.png",
+    "price": "9",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat voluptatibus aliquid minus voluptates porro vero eveniet natus impedit, iste tempora nulla similique magnam repudiandae sequi non nostrum aut neque esse.",
+    "images": []
+  },
+  {
+    "title": "Farlic butter baked salmon",
+    "category": "dinner",
+    "defaultImage": "https://i.ibb.co/n7PLB8P/dinner5.png",
+    "price": "91",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat voluptatibus aliquid minus voluptates porro vero eveniet natus impedit, iste tempora nulla similique magnam repudiandae sequi non nostrum aut neque esse.",
+    "images": []
+  },
+  {
+    "title": "Baked Chiken",
+    "category": "dinner",
+    "defaultImage": "https://i.ibb.co/DQ2NbP3/dinner6.png",
+    "price": "91",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat voluptatibus aliquid minus voluptates porro vero eveniet natus impedit, iste tempora nulla similique magnam repudiandae sequi non nostrum aut neque esse.",
+    "images": []
+  }
+]
